@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Морской бой", "Морской бой\Морской бой.vcxproj", "{4F6C16ED-66D4-47B4-991A-0AE0A322372E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F6C16ED-66D4-47B4-991A-0AE0A322372E}.Debug|x64.ActiveCfg = Debug|x64
+		{4F6C16ED-66D4-47B4-991A-0AE0A322372E}.Debug|x64.Build.0 = Debug|x64
+		{4F6C16ED-66D4-47B4-991A-0AE0A322372E}.Debug|x86.ActiveCfg = Debug|Win32
+		{4F6C16ED-66D4-47B4-991A-0AE0A322372E}.Debug|x86.Build.0 = Debug|Win32
+		{4F6C16ED-66D4-47B4-991A-0AE0A322372E}.Release|x64.ActiveCfg = Release|x64
+		{4F6C16ED-66D4-47B4-991A-0AE0A322372E}.Release|x64.Build.0 = Release|x64
+		{4F6C16ED-66D4-47B4-991A-0AE0A322372E}.Release|x86.ActiveCfg = Release|Win32
+		{4F6C16ED-66D4-47B4-991A-0AE0A322372E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA58DF75-9C77-4A7C-BC1E-6F99CA1DFBA4}
+	EndGlobalSection
+EndGlobal
